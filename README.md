@@ -8,4 +8,4 @@ Used tkinter and core libraries to make youtube downloader, speed is unmatchable
 [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FGauravSingh9356%2FYoutube-Downloader)
 
 ## Preview
-<img src="Screenshot(138).png"/>
+<img src="Screenshot (138).png"/>
